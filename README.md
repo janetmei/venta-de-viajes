@@ -1,4 +1,4 @@
- ## Es una página web sencilla para la venta de viajes. Este proyecto ofrece una interfaz básica donde los usuarios pueden ver destinos de viaje y algunos detalles sobre cada uno.
+ # Es una página web sencilla para la venta de viajes. Este proyecto ofrece una interfaz básica donde los usuarios pueden ver destinos de viaje y algunos detalles sobre cada uno.
 
 # Características
 ## - Página de destinos: Lista de destinos de viaje disponibles.
